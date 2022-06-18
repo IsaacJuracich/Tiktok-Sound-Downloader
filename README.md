@@ -20,3 +20,4 @@
   );
 })();```
 
+[Link to NPM](https://www.npmjs.com/package/tiktok-sound-downloader)
