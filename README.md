@@ -1,5 +1,6 @@
 # Tiktok-Sound-Downloader
  
+ [Link to NPM](https://www.npmjs.com/package/tiktok-sound-downloader)
  > Inhouse
 ```js (async () => {
   const TiktokSoundDownloader = require('../index.js');
@@ -19,5 +20,3 @@
     __dirname + '/test.mp3'
   );
 })();```
-
-[Link to NPM](https://www.npmjs.com/package/tiktok-sound-downloader)
